@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Mike, a passionate Software Developer with a diverse skill set in web technologies, including Angular, .NET, Electron, and more.
-
+ 
 ## What I Do
 
 - 🌐 Building web applications with a variety of frameworks and technologies
