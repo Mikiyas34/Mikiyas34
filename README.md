@@ -36,13 +36,6 @@ A versatile code editor designed for developers. Built with Angular, it provides
 
 ![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mikiyas34&show_icons=true&theme=radical)
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikiyas-simeneh-b79b622a9/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MikiyasS80935)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mikiyassimeneh@outlook.com)
-
-
 ## Contributions Welcome
 
 I'm always looking for collaborators and contributors to help improve my projects. If you're interested in web development, image editing, or just want to contribute to an exciting project, feel free to reach out. Let's build something amazing together!
